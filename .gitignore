@@ -1,0 +1,14 @@
+*.txt
+*.json
+node_modules/
+cJSON.c
+cJSON.h
+*.exe
+*.js
+porn
+
+# .claude is here because I couldn't be fucked to write a proper README.md file. I mean... we're talking about... this fucking thing.
+.claude/
+
+# also vscode
+.vscode/
