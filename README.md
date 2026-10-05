@@ -128,9 +128,8 @@ requests.
 | `Makefile` | Cross-platform build/run/clean. |
 | `LICENSE` | MIT. |
 | `cJSON.c`, `cJSON.h` | Vendored JSON parser. Gitignored. |
-| `nhentai-check.js`, `package.json` | Abandoned Node prototype using `nhentai-js`. Ignore it. |
+| `nhentai-check.js`, `package.json` | Abandoned Node prototype using `nhentai-js`. Gitignored. |
 | `gallist.txt`, `out.txt`, `file*.txt` | Saved output from earlier runs. Gitignored. |
-| `.vscode/` | IntelliSense config pointing at UCRT64. |
 
 ## License
 
